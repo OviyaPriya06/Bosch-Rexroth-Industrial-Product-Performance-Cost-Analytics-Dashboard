@@ -201,8 +201,6 @@ AI-based anomaly detection
 <img width="1376" height="767" alt="performance" src="https://github.com/user-attachments/assets/2a26e344-6459-4d3f-9b2a-dd0ba68b4d39" />
 <img width="1373" height="772" alt="Cost" src="https://github.com/user-attachments/assets/e5941912-ae4f-484b-a009-b3e560616c2b" />
 <img width="1372" height="770" alt="pie use Tooltip" src="https://github.com/user-attachments/assets/b7cc55e4-d97f-41b7-8cb8-66d52a9ec2a8" />
-
-
 👤 Author
 
 Oviya Priya
