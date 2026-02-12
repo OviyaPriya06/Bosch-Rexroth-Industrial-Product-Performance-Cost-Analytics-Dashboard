@@ -1,10 +1,13 @@
 📊 Bosch Rexroth - Industrial Product Performance & Cost Analytics Dashboard
+
+
 📌 Project Overview
 The Bosch Rexroth Industrial Production Performance & Cost Analytics Dashboard is an interactive Power BI solution developed to analyze production efficiency, cost structure, and operational performance across departments and shifts.
 
 The dashboard transforms 1000 production records into meaningful insights for cost optimization, efficiency improvement, and strategic manufacturing decisions.
 
 🎯 Business Objectives
+
 Compare planned vs actual production
 
 Analyze production efficiency (%)
@@ -17,7 +20,9 @@ Break down cost into Raw Material, Labor, and Overhead
 
 Track monthly and yearly production trends
 
+
 📂 Dataset Description (Based on Your Actual Data)
+
 Production Date
 
 Product Name (Gear Assembly, Valve Assembly, etc.)
@@ -42,7 +47,9 @@ Production Efficiency (%)
 
 Shift (Morning / Evening / Night)
 
+
 🛠️ Tools & Technologies
+
 Power BI – Data visualization & dashboard creation
 
 Power Query – Data cleaning and transformation
@@ -51,7 +58,9 @@ DAX – Calculated KPIs, variance & efficiency measures
 
 Excel Dataset – Source data
 
+
 🧩 Key Metrics (KPIs)
+
 Total Production Cost: 70M
 
 Total Planned Cost: 354K
@@ -64,7 +73,9 @@ Production Variance: 7K
 
 Total Production Count: 1000
 
+
 📊 Dashboard Insights
+
 1️⃣ Production Planning vs Actual Performance
 Significant variance observed between Planned and Actual Production.
 
@@ -124,7 +135,9 @@ Variance between planned and actual production highlights planning gaps.
 
 📌 Insight: Data-driven monitoring improves forecasting accuracy and cost control.
 
+
 📊 Visualizations Included
+
 KPI Cards (Cost, Efficiency, Variance, Count)
 
 Tree map Chart(Sum of Production Efficiency % by Department)
@@ -143,15 +156,25 @@ Table (MTD & YTD Analysis)
 
 Interactive Slicers (Year, Department, Product Name)
 
+
 🚀 Business Value
+
 ✔ Identifies cost leakage areas
+
 ✔ Improves production planning accuracy
+
 ✔ Enhances department accountability
+
 ✔ Supports cost reduction strategies
+
 ✔ Helps optimize shift performance
+
 ✔ Enables real-time performance monitoring
 
+
+
 🧠 Learnings
+
 Variance analysis is critical in cost control
 
 Efficiency tracking improves operational planning
@@ -160,7 +183,9 @@ Shift-level analysis uncovers hidden productivity gaps
 
 Clean data improves dashboard accuracy
 
+
 📌 Future Enhancements
+
 Predictive production forecasting
 
 Machine downtime analysis
@@ -171,14 +196,17 @@ Integration with ERP system
 
 AI-based anomaly detection
 
+
 📷 Dashboard Preview
 <img width="1376" height="767" alt="performance" src="https://github.com/user-attachments/assets/2a26e344-6459-4d3f-9b2a-dd0ba68b4d39" />
 <img width="1373" height="772" alt="Cost" src="https://github.com/user-attachments/assets/e5941912-ae4f-484b-a009-b3e560616c2b" />
 <img width="1372" height="770" alt="pie use Tooltip" src="https://github.com/user-attachments/assets/b7cc55e4-d97f-41b7-8cb8-66d52a9ec2a8" />
 
 
-
 👤 Author
+
 Oviya Priya
+
 Power BI Developer | Data Analyst
+
 📍 Tamil Nadu, India
