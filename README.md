@@ -142,19 +142,17 @@ KPI Cards (Cost, Efficiency, Variance, Count)
 
 Tree map Chart(Sum of Production Efficiency % by Department)
 
-Pie Chart (Year-wise Cost)
+Donut Chart (Year-wise Cost)
 
-Donut Chart (Shift-wise Cost)
+Waterfall Chart (Shift-wise Cost)
 
-Bar Chart (Department-wise Cost)
+Column Chart (Department-wise Cost)
 
-Column Chart (Product-wise Cost)
-
-Line Chart (Monthly Cost Trend)
+Area Chart (Monthly Cost Trend)
 
 Table (MTD & YTD Analysis)
 
-Interactive Slicers (Year, Department, Product Name)
+Interactive Slicers (Year, Product Name)
 
 
 🚀 Business Value
@@ -198,9 +196,9 @@ AI-based anomaly detection
 
 
 📷 Dashboard Preview
-<img width="1376" height="767" alt="performance" src="https://github.com/user-attachments/assets/2a26e344-6459-4d3f-9b2a-dd0ba68b4d39" />
-<img width="1373" height="772" alt="Cost" src="https://github.com/user-attachments/assets/e5941912-ae4f-484b-a009-b3e560616c2b" />
-<img width="1372" height="770" alt="pie use Tooltip" src="https://github.com/user-attachments/assets/b7cc55e4-d97f-41b7-8cb8-66d52a9ec2a8" />
+
+<img width="1371" height="767" alt="Screenshot 2026-02-13 232319" src="https://github.com/user-attachments/assets/1c40912a-d66c-4e06-9f34-689d4721868f" />
+
 
 👤 Author
 
