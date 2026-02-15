@@ -152,7 +152,7 @@ Area Chart (Monthly Cost Trend)
 
 Table (MTD & YTD Analysis)
 
-Interactive Slicers (Year, Product Name)
+Interactive Slicers (Day, Product Name)
 
 
 🚀 Business Value
