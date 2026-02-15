@@ -197,7 +197,7 @@ AI-based anomaly detection
 
 📷 Dashboard Preview
 
-<img width="1371" height="767" alt="Screenshot 2026-02-13 232319" src="https://github.com/user-attachments/assets/1c40912a-d66c-4e06-9f34-689d4721868f" />
+<img width="1376" height="772" alt="Screenshot 2026-02-15 102824" src="https://github.com/user-attachments/assets/996ba271-30e1-4717-9e17-2ddcdaa1ace1" />
 
 
 👤 Author
